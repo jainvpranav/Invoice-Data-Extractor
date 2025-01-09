@@ -19,7 +19,7 @@ A custom **Invoice Data Extractor** designed to parse PDFs, extract specific dat
 ## 🖥️ How to Use
 
 1. **Download the Application**:  
-   [Download Invoice Data Extractor.exe](https://github.com/jainvpranav/Invoice)  
+   [Download Invoice Data Extractor.exe](https://github.com/jainvpranav/Invoice-Data-Extractor)  
 
 2. **Prepare Your PDFs**:  
    - Place your PDF files in the same directory as the `.exe` file.
